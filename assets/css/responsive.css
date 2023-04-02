@@ -1,0 +1,195 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .black_shape.index-1 {
+    }
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .black_shape.index-1 {
+        top: -387px;
+    }
+    .hero_content h1 {
+        font-size: 65px;
+    }
+    
+    .hero_content {
+        max-width: 700px;
+    }
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .black_shape.index-1 {
+        top: -434px;
+    }
+    .hero_content h1 {
+        font-size: 65px;
+    }
+    
+    .hero_content {
+        max-width: 700px;
+    }
+    .contact_wrp {
+        max-width: 610px;
+    }
+    
+    .contact_blk > label span {
+        font-size: 22px;
+    }
+    
+    .containers {
+        font-size: 22px;
+    }
+    
+    .contact_blk > label {
+        font-size: 36px;
+    }
+    
+    .contact-Area {
+        padding-bottom: 55px;
+    }
+    span.download_shape {
+        height: 1281px;
+        top: 340px;
+    }
+    
+    .download_content h1 {
+        font-size: 80px;
+    }
+    .hero_content h1 {
+        font-size: 66px;
+    }
+    .index-3 {top: 36%;}
+    
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .logo{
+    max-width: 260px;
+}
+    .black_shape.index-1 {
+        top: -701px;
+    }
+    .hero_content h1 {
+        font-size: 32px;
+        margin-bottom: 170px;
+    }
+
+.hero_content h1 span {
+    margin-top: 30px;
+}
+    
+    .hero_content {
+        max-width: 360px;
+    }
+    .contact_wrp {
+        max-width: 610px;
+    }
+    
+    .contact_blk > label span {
+        font-size: 16px;
+    }
+    
+    .containers {
+        font-size: 18px;
+    }
+
+.Minor_blk {
+    margin-left: 48px;
+}
+
+.Minor_blk label {
+    font-size: 24px;
+}
+
+.Minor_blk a {
+    font-size: 18px;
+}
+    
+    .contact_blk > label {
+        font-size: 24px;
+    }
+
+.contact_blk input {
+    height: 50px;
+}
+    
+    .contact-Area {
+        padding-bottom: 25px;
+    }
+    .contact_btm span {
+        font-size: 22px;
+    }
+    
+    .contact_btm button {
+        font-size: 36px;
+        max-width: 300px;
+    }
+    
+    .contact_btm a {
+        font-size: 24px;
+    }
+    span.download_shape {
+        height: 1281px;
+        top: 151px;
+    }
+    
+    .download_content h1 {
+        font-size: 80px;
+    }
+    .download_content h1 {
+        font-size: 48px;
+    }
+    
+    .download_content p {
+        font-size: 24px;
+    }
+    
+    .download_content ul li a {
+        scale: .8;
+    }
+    
+    .download_content ul li {
+        margin: 0;
+    }
+    .welCome_content h1 {
+        font-size: 70px;
+    }
+    
+    .welCome_content span {
+        font-size: 40px;
+    }
+    
+    .welCome_content a img {
+        max-width: 180px;
+    }
+    
+    .index-3 {
+        height: 65vh;
+        top: 30%;
+    }
+ 
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.hero_content h1{
+    font-size: 40px;
+}
+.hero_content {
+    max-width: 100%;
+}
+
+.black_shape.index-1 {
+    top: -669px;
+}
+ 
+}

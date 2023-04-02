@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'DINPro';
+    src: url('../fonts/DINPro-Bold.woff2') format('woff2'),
+        url('../fonts/DINPro-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINOT-CondBlack';
+    src: url('../fonts/DINOT-CondBlack.woff2') format('woff2'),
+        url('../fonts/DINOT-CondBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Pro';
+    src: url('../fonts/DINPro-CondBlack.woff2') format('woff2'),
+        url('../fonts/DINPro-CondBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TCCC-UnityHeadline';
+    src: url('../fonts/TCCC-UnityHeadline-Regular.woff2') format('woff2'),
+        url('../fonts/TCCC-UnityHeadline-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TCCC-UnityHeadline';
+    src: url('../fonts/TCCC-UnityHeadline-Black.woff2') format('woff2'),
+        url('../fonts/TCCC-UnityHeadline-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('../fonts/DINPro-Medium.woff2') format('woff2'),
+        url('../fonts/DINPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Regular.woff2') format('woff2'),
+        url('../fonts/MyriadPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
